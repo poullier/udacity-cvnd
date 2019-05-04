@@ -32,3 +32,13 @@ __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to P
 __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
 __Notebook 4__ : Fun Filters and Keypoint Uses
+
+
+
+### Links
+
+Sketch RNN
+https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+
+Webinar Pytorch & Neural Networks
+https://www.youtube.com/watch?v=2N78GVY_Zho&feature=youtu.be
